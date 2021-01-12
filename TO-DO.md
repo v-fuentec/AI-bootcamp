@@ -6,7 +6,8 @@
 
 ### Data Visualization
 Some tools and libraries:
-* Python: matplotlib, seaborn, plotly, bokeh, pygal
+* Python: matplotlib, seaborn
+  * Others: plotnine, plotly, bokeh, pygal...
 * Tableau
 * D3.js
 
